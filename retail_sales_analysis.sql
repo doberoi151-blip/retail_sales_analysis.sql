@@ -21,7 +21,7 @@ FROM train;
 
 
 
--- LEVEL 2: AGGREGATION & BUSINESS INSIGHTS
+--  -- AGGREGATION & BUSINESS INSIGHTS
 
 -- Calculate the total sales generated across the entire dataset.
 SELECT SUM(Sales) as total_sale 
